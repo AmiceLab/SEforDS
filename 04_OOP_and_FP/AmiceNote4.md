@@ -5,26 +5,15 @@
 
 ## Key point:
 
-1. Basic: Reading Log
+- Two types of programming styles (or paradigms)
+1. Object-Oriented Programming (OOP)
+   - Class, Methods, and Attributes
+2. Functional Programming (FP)
+   - Lambda Functions and map()
+   - Applying functions to DataFrames
+     
+- Play with both
    
-2. Handling errors in the code
-  - Best Practice :
-  - try: / except KeyError: / else: structure
-  - never :
-   ```
-   except:
-    return
-   ```
-     It silences all the errors it encounters
-  - 
-3. Logging
-
-  ```
-  
-  ```
-
-
-
 
 ### ---
 tags: [personal-note, SE4DS, learning, non-commercial]
