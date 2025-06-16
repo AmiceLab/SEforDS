@@ -12,3 +12,4 @@
 - Documentation within the **codebase**
 - Comments - no need if **the code tells itself**
 - Docstring: """ Very detailed description for a certain part of the code """
+- REAM.me's
