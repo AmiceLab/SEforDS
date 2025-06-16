@@ -6,24 +6,25 @@
 ## Key point:
 
 ### 1. Types of Testing
-- automated code testing - write code to test (Test-Driven Development, TDD, our foucs)
+- automated code testing - write code to test (Test-Driven Development, TDD, our focus)
 - user testing - by another team
 
 ### 2. How to Write and Run Tests
 
 Using Fit_Trendline function
 
-Running Automated Tests with 
-(1) Pytest 
+Running Automated Tests with :
 
-```
-pip install pytest
-pytest amice_program.py
-```
+- Pytest 
 
-(2) tox
+  ```
+  pip install pytest
+  pytest amice_program.py
+  ```
 
-### 3. Taking care of other level of Tests
+- tox
+
+### 3. Taking care of other levels of Tests
 
 Unit/Integration/Acceptance/Loads/Security/Usability
 
@@ -34,7 +35,7 @@ Unit/Integration/Acceptance/Loads/Security/Usability
 pip install pydantic
 ```
 
-### 4. Testing for Machine Learning
+### 5. Testing for Machine Learning
 
 - Data exploration
 - Feature Engineering
