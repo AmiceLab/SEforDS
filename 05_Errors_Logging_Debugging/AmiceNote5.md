@@ -5,10 +5,11 @@
 
 ## Key point:
 
-### 1. Basic: Reading Log
+### 1. Basic: 
+ Read error message
    
 ### 2. Handling errors in the code
-  - Best Practice :
+Best Practice :
    ```
    try:
       xxx
@@ -18,7 +19,7 @@
       zzz
    ```
 
-  - never :
+never :
     
    ```
    except:
@@ -48,5 +49,8 @@ How to log
       # then can put the "try: / except TypeErrors as e: / else" structure
   ```
 
+### 4. Debugging
 
+1. use log above
+2. 2.add flag in code
 
