@@ -28,3 +28,24 @@ pip install pylint
 
 pylint amice_program.py
 ```
+
+```
+pip install flake8
+
+flake8 amice_program.py
+```
+
+```
+pip install ruff
+
+ruff check amice_program.py
+ruff format amice_program.py
+```
+
+## New! - Type Annotation
+
+```
+pip install mypy
+
+mypy amice_program.py
+```
