@@ -13,3 +13,11 @@
 - Comments - no need if **the code tells itself**
 - Docstring: """ Very detailed description for a certain part of the code """
 - REAM.me's
+
+
+
+
+
+
+---
+tags: [personal-note, SE4DS, learning, non-commercial]
