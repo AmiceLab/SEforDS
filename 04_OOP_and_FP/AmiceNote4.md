@@ -5,7 +5,7 @@
 
 ## Key point:
 
-- Two types of programming styles (or paradigms)
+### Two types of programming styles (or paradigms)
 1. Object-Oriented Programming (OOP)
    - Class, Methods, and Attributes
 2. Functional Programming (FP)
