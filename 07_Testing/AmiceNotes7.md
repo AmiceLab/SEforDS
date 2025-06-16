@@ -34,10 +34,11 @@ Unit/Integration/Acceptance/Loads/Security/Usability
 pip install pydantic
 ```
 
-
 ### 4. Testing for Machine Learning
 
-```
-pip install pydantic
-```
+- Data exploration
+- Feature Engineering
+- Model training & testing
+- Model evaluation
+- Model monitoring
 
