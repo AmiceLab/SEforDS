@@ -49,3 +49,8 @@ pip install mypy
 
 mypy amice_program.py
 ```
+
+
+
+---
+tags: [personal-note, SE4DS, learning, non-commercial]
