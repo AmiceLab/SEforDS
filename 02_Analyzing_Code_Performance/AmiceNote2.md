@@ -5,6 +5,8 @@
 
 ## Key point:
 
+### Simple tasks
+
 - Time your code >>> %%timeit
 
 ### Large amount of code :
@@ -12,11 +14,12 @@
 - cProfile %%prun
   - gives a detailed breakdown of how the computer spends its time
   - pip install line_profiler
-  - >>> %load_ext line_profiler
+  - %load_ext line_profiler
 
 - Memray
   - memray run mode_using_counter.py
 
+### Others
 - Big O Notation
   - O(1) - Constant time, time anyway required regardless of dataset size
   - O(n) - linear time, time with the size of dataset
