@@ -54,3 +54,6 @@ How to log
 1. use log above
 2. 2.add flag in code
 
+
+---
+tags: [personal-note, SE4DS, learning, non-commercial]
