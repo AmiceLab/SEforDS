@@ -43,3 +43,8 @@ pip install pydantic
 - Model evaluation
 - Model monitoring
 
+
+
+
+---
+tags: [personal-note, SE4DS, learning, non-commercial]
