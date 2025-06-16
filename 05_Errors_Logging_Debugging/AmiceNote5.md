@@ -5,22 +5,47 @@
 
 ## Key point:
 
-1. Basic: Reading Log
+### 1. Basic: Reading Log
    
-2. Handling errors in the code
+### 2. Handling errors in the code
   - Best Practice :
-  - try: / except KeyError: / else: structure
+   ```
+   try:
+      xxx
+   except KeyError:
+      yyy
+   else:
+      zzz
+   ```
+
   - never :
+    
    ```
    except:
     return
    ```
-     It silences all the errors it encounters
-  - 
-3. Logging
+
+   It silences all the errors it encounters
+
+
+### 3. Logging
+
+Setting the level of logging
 
   ```
-  
+  import logging
+
+  loggin.basicConfig(level= logging.DEBUG)
+  ```
+
+How to log
+
+  ```
+  from scipy.stats import linregress
+
+  def qqq_trend(year, data):
+      logging.info("Running the qqq function")
+      # then can put the "try: / except TypeErrors as e: / else" structure
   ```
 
 
