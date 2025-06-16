@@ -3,7 +3,15 @@
 > All rights belong to the original author and publisher.
 
 
+# Key point:
 
+- Occasionally, some codes are written for one-off purposes, say for a quick demo tomorrow. However, after that, it is a good practice to spend some time tidying up the code in case it can be reused in the future.
+
+- Simple is better than complex.
+
+- Don't Repeat Yourself (DRY)
+
+- Clean up.
 
 
 ---
