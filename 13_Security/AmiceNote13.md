@@ -24,7 +24,9 @@
     bandit -r
 
     ```
-
+# Security of ML System
+- attack to disrupt an ML system
+- train data extraction (Appendise
 
 ---
 tags: [personal-note, SE4DS, learning, non-commercial]
