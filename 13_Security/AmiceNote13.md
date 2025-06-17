@@ -17,16 +17,27 @@
 ## Tools
 - Secure Coding tools
   - SonarQube, Checkmarx, Dependabot (by GitHub)
-  - bandit -- give you the security change on code (vulnerability)
-  - 
+  - bandit -- give you the security analysis on code (vulnerability)
     ```
     pip install bandit
     bandit -r
-
     ```
 # Security of ML System
-- attack to disrupt an ML system
-- train data extraction (Appendise
+1. Attack on a deployed model
+   - The attacker has some knowledge of the basis of the model.
+   - manipulate the output by a viral input
+     
+2. Attack on training data
+   - training data extraction
+   - particularly if trained on sensitive data
+  
+3. Model theft
+   - theft of intellectual property
+   - send enough queries and record enough response, to recreate the model
+  
+4. Data/Open source contamination
+   - Attacker influences the source of datasets
+   - Attacker influences the code of open source
 
 ---
 tags: [personal-note, SE4DS, learning, non-commercial]
