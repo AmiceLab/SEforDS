@@ -36,8 +36,8 @@
    - send enough queries and record enough response, to recreate the model
   
 4. Data/Open source contamination
-   - Attacker influences the source of datasets
-   - Attacker influences the code of open source
+   - the source of datasets
+   - the code of open source
 
 ---
 tags: [personal-note, SE4DS, learning, non-commercial]
