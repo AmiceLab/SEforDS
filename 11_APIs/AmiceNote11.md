@@ -8,6 +8,7 @@
 
 
 
+
 From the book and further research, I would like to summarize REST API vs FastAPI
 
 | REST API | FastAPI |
