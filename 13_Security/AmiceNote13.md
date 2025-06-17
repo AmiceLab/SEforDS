@@ -17,9 +17,11 @@
 ## Tools
 - Secure Coding tools
   - SonarQube, Checkmarx, Dependabot (by GitHub)
-  - bandit
+  - bandit -- give you the security change on code (vulnerability)
+  - 
     ```
     pip install bandit
+    bandit -r
 
     ```
 
